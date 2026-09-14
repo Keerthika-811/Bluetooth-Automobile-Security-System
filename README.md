@@ -191,10 +191,6 @@ to operate the corresponding functions.
 
 ![Project Model](images/project_model.jpg)
 
-### Circuit Setup
-
-![Circuit Setup](images/circuit_setup.jpg)
-
 ### Working Demonstration
 
 ![Working Demonstration](images/working_demo.jpg)
