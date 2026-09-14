@@ -141,7 +141,6 @@ Bluetooth-Automobile-Security-System/
 │
 ├── images/
 │   ├── project_model.jpg
-│   ├── circuit_setup.jpg
 │   └── working_demo.jpg
 │
 └── documentation/
