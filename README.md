@@ -193,7 +193,8 @@ to operate the corresponding functions.
 
 ### Working Demonstration
 
-![Working Demonstration](images/working_demo.jpg)
+![Working Demonstration](images/working_demo1.jpg)
+![Working Demonstration](images/working_demo2.jpg)
 
 ## Future Improvements
 
